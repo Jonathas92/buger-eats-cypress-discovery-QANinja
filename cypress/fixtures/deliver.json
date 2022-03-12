@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Jonathas Santos",
+        "cpf": "00000014141",
+        "email": "testes@gmail.com",
+        "whatsapp": "21999999999",
+        "address":{
+            "postalcode": "22733500",
+            "street": "Rua Capitanias",
+            "number": "1000",
+            "details": "casa1",
+            "districts": "Tanque",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Ivan Santos",
+        "cpf": "800000141AA",
+        "email": "cpf_invalido@gmail.com",
+        "whatsapp": "21999999999",
+        "address":{
+            "postalcode": "22733500",
+            "street": "Rua Capitanias",
+            "number": "1000",
+            "details": "casa1",
+            "districts": "Tanque",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Jonathas Santos",
+        "cpf": "00000014141",
+        "email": "jonathas.com.br",
+        "whatsapp": "21999999999",
+        "address":{
+            "postalcode": "22733500",
+            "street": "Rua Capitanias",
+            "number": "1000",
+            "details": "casa1",
+            "districts": "Tanque",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
