@@ -2,7 +2,7 @@
 # Validação de Cadastro do site buger eats utilizando Cypress
 
 Teste de cadastro do sistema utilizando o pluggin Chance para automatizar o cadastro e gerar um relatórios com as assertivas.
-## Ferramentas utilizadas
+## :wrench: Ferramentas utilizadas
 
 - cypress
 - Node
@@ -15,7 +15,7 @@ Teste de cadastro do sistema utilizando o pluggin Chance para automatizar o cada
 - Cypress-file-upload
 - Gerador-validador-cpf
 
-## Instalação
+## :computer: Instalação
 
 Comando para instalação do Cypress e Pluggins
 
@@ -26,7 +26,7 @@ Comando para instalação do Cypress e Pluggins
   npm install gerador-validador-cpf –save-dev
 ```
 
-## Cenário de Testes
+## :black_nib: Cenário de Testes
 
 Comando para instalação do Cypress e Pluggins
 
@@ -38,7 +38,7 @@ Comando para instalação do Cypress e Pluggins
   Validar se a mensagem de alertas dos campos obrigátorios está sendo exibido. (signup.spec.js)
 ```
 
-## Executando os testes.
+## :hourglass: Executando os testes.
 
 Utilizar um dos comandos abaixo para executar os testes.
 
