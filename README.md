@@ -52,5 +52,7 @@ Jonathas Santos
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonathasbsantos/)
-<a href="www.linkedin.com/in/jonathasbsantos/" target="blank"><img align="center"
+    <a href="www.linkedin.com/in/jonathasbsantos/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
+            width="40" /></a>
 
